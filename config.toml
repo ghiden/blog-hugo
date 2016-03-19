@@ -1,0 +1,47 @@
+# Site settings
+baseurl = "http://hdnrnzk.me/"
+languageCode = "en-us"
+title = "Hidenari's Random Thougths"
+theme = "cactus"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-30160349-1"
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "ghiden"
+
+[params]
+	name = "Hidenari's Random Thoughts"
+	description = "Describe your website"
+	bio = "I sketch and prototype"
+	# Enter optionally your twitter account
+	twitter = "ghiden"
+	enableRSS = true
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	about = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "I sketch and prototype"
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+    # Social icons style - circle, rounded, or empty
+    socialIconStyle = "circle"
+
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/ghiden"
+    github   = "https://www.github.com/ghiden"
+    linkedin = "https://nz.linkedin.com/in/hidenarinozaki"
+

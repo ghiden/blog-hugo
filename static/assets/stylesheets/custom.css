@@ -1,0 +1,12 @@
+div.about {
+  margin-bottom: 20px;
+}
+
+div.about a {
+  display: block;
+  margin-top: 5px;
+}
+
+div.about .twitter-follow-button {
+  margin-top: 5px;
+}

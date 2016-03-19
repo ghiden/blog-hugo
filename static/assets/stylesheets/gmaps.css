@@ -1,0 +1,17 @@
+div#map {
+  border: 2px solid;
+  width: 520px;
+  height: 400px;
+}
+
+table#latlng {
+  background: #ffffcc;
+  width: 520px;
+  text-align: center;
+  margin: 2px;
+}
+
+form.form-search {
+  margin-top: 3px;
+  margin-left: 3px;
+}
