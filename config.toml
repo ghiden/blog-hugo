@@ -2,7 +2,7 @@
 baseurl = "http://hdnrnzk.me/"
 languageCode = "en-us"
 title = "Hidenari's Random Thougths"
-theme = "cactus"
+theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-30160349-1"
 # Disable comments by leaving disqusShortname empty
