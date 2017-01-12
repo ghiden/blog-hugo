@@ -2,8 +2,9 @@
 
 ## Instructions
 
-Install themes:
+Install pygments and themes:
 ```bash
+pip install Pygments
 git submodule update --init --recursive themes/hugo-cactus-theme
 ```
 
